@@ -1,4 +1,4 @@
-# 🏦 SmartBank API - Secure Banking System
+ SmartBank API - Secure Banking System
 
 > A comprehensive banking backend system built with FastAPI, featuring account management, secure transactions, loan processing, and intelligent fraud detection.
 
