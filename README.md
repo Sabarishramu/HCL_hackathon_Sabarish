@@ -451,8 +451,7 @@ This project is created for educational purposes as part of the HCL Hackathon 20
 ## 👨‍💻 Author
 
 **[Your Name]**  
-📧 Email: your.email@example.com  
-🔗 GitHub: [@yourusername](https://github.com/yourusername)  
+📧 Email: sabarishr2002@gmail.com
 🏆 Built for: HCL Hackathon 2025
 
 ---
