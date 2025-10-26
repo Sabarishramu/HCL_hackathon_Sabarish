@@ -468,19 +468,6 @@ This project is created for educational purposes as part of the HCL Hackathon 20
 
 - **API Documentation:** http://127.0.0.1:8000/docs
 - **Alternative Docs:** http://127.0.0.1:8000/redoc
-- **Issues:** Open an issue on GitHub
-- **Email:** your.email@example.com
-
----
-
-## 🎬 Demo Video
-
-[Link to demo video if available]
-
----
-
-## 📸 Screenshots
-
 ### Swagger UI
 ![API Documentation](screenshots/swagger-ui.png)
 
